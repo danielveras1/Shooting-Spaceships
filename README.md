@@ -1,6 +1,6 @@
 # Shooting-Spaceships
 
-Jogo desenvolvido em Java, por alunos da disciplina Programação Orientada a Objetos. Nesse jogo desenvolvido em Java, por alunos da disciplina Programação Orientada a Objetos. Nesse jogo os usuário devem controlar suas naves para destruir seus oponentes.
+Jogo desenvolvido em Java, por alunos da disciplina Programação Orientada a Objetos. Nesse jogo os usuário devem controlar suas naves para destruir seus oponentes.
 
 ## Classes
  - Corpo: Classe abstrata que dá origem aos objetos animados do jogo.
