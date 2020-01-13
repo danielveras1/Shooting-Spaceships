@@ -15,3 +15,7 @@ Jogo desenvolvido em Java, por alunos da disciplina Programação Orientada a Ob
 ## Screenshot
 ![](https://github.com/dnielveras/Shooting-Spaceships/blob/master/screenshots/gif_jogo.gif)
 
+## Alunos:
+ - Francisco Daniel Veras
+ - João Victor Sousa Oliveira
+
