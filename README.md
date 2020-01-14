@@ -10,7 +10,7 @@ Jogo desenvolvido em Java, por alunos da disciplina Programação Orientada a Ob
  - Missil: Classe que estende de Corpo, que será responsavel pelo mísseis que serão lançados por Nave.
  - Fase: Carrega os elementos do jogo.
  - Main: Inicializa o jogo.
- - Server: Torna possivel o jogo se multiplayer.
+ - Server: Torna possivel o jogo ser multiplayer.
 
 ## Screenshot
 ![](https://github.com/dnielveras/Shooting-Spaceships/blob/master/screenshots/gif_jogo.gif)
